@@ -1,2 +1,2 @@
 # testrepo
-test
+Test repository for IBM Data Science certificate
